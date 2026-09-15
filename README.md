@@ -397,7 +397,7 @@ We compare our Bayesian Network against state-of-the-art methods:
 
 ### Dataset Selection: Kaggle Loan Default
 
-**Source:** https://www.kaggle.com/datasets/ (search "loan default" or "credit default")
+**Source:** https://www.kaggle.com/datasets/ 
 
 **Alternative Options:**
 - UCI Credit Approval Dataset: https://archive.ics.uci.edu/ml/
@@ -501,7 +501,7 @@ print(f"Test:  {len(test_df)} records ({len(test_df)/len(df)*100:.1f}%)")
 
 **Repository Name:** `CSE516_Credit_Default_BN`  
 **Access:** PUBLIC (not private)  
-**Link:** `https://github.com/[YourHandle]/CSE516_Credit_Default_BN`
+**Link:** `https://github.com/kamyaahduni/CSE516_Credit_Default_BN`
 
 ### Repository Organization
 
@@ -566,11 +566,7 @@ CSE516_Credit_Default_BN/
 
 ##  Video Deliverable
 
-**Duration:** 20 minutes exactly  
-**Format:** MP4 (1080p, 30 fps)  
-**Location:** `M1_<group_name>/Video/M1_<group_name>_Video_Link.txt` (or video file)
-
-**Content Breakdown:** 6 Segments (See VIDEO_SCRIPT_COMPLETE.md for full script)
+**Content Breakdown:** 6 Segments 
 
 1. **Introduction & Problem (3 min)** — Why we need causal models
 2. **Graphical Model (3 min)** — Show the Bayesian Network structure
@@ -579,67 +575,10 @@ CSE516_Credit_Default_BN/
 5. **Baselines & KPIs (3 min)** — How we measure success
 6. **Dataset & Timeline (3 min)** — Data + project schedule
 
-See `M1_<group_name>/Video/VIDEO_SCRIPT_COMPLETE.md` for word-for-word script.
+
 
 ---
 
-##  M1 Contents Summary
-
-### What This M1 Folder Contains
-
-**REQUIRED:**
--  `README.md` — This documentation (project overview, framework, team info)
--  `Report/M1_<group_name>_Report.pdf` — Official 8-10 page proposal
--  `Video/M1_<group_name>_Video_Link.txt` — Video link or MP4 file
-
- Google Form link
-
----
-
-## 🎯 Key Questions Each Team Member Should Be Able to Answer
-
-Before the evaluation, ensure each team member can discuss:
-
-1. **Graphical Model**
-   - "Show me the Bayesian Network. What do the nodes represent?"
-   - "Why is there an edge from Income to Debt?"
-   - "What conditional independencies does the DAG imply?"
-
-2. **PGM Components**
-   - "How do we learn the structure? (PC Algorithm)"
-   - "How do we learn the parameters? (MLE via regression)"
-   - "What inferences can we make? (credit scoring, causal effects)"
-
-3. **SOTA Position**
-   - "What did Senyk et al. (2024) do?"
-   - "How do we extend their work? (5 contributions)"
-   - "Why is this publication-ready?"
-
-4. **Baselines & KPIs**
-   - "What are your 5 baselines?"
-   - "How do you measure success? (3 KPI dimensions)"
-   - "What are your target metrics?"
-
-5. **Dataset & Preprocessing**
-   - "Where does the data come from?"
-   - "How large is the dataset?"
-   - "How do you preprocess it?"
-
-6. **Individual Contribution**
-   - "What did YOU specifically do for M1?"
-   - "Which sections did YOU write?"
-   - "What GitHub commits did YOU make?"
-
----
-
-## 📅 Project Timeline
-
-| Milestone | Date | Deliverables | Status |
-|-----------|------|--------------|--------|
-| **M1** | Sept 15, 2026 | Proposal + Video + Folder | 🔴 **CURRENT** |
-| **M2** | Oct 11, 2026 | PC Algorithm + Data + Parameters | Upcoming |
-| **M3** | Nov 1, 2026 | Baselines + Robustness + Causal Effects | Upcoming |
-| **M4** | Nov 22, 2026 | Final Paper + Code + Results | Upcoming |
 
 ---
 
