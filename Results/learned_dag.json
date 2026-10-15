@@ -1,0 +1,26 @@
+{
+  "edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      6,
+      9
+    ]
+  ],
+  "n_edges": 5,
+  "description": "Directed acyclic graph learned via PC Algorithm"
+}

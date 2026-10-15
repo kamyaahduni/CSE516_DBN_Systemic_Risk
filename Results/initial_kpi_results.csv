@@ -1,0 +1,2 @@
+stability,sota_alignment,significance,domain_fit,ci_width,param_significance,train_r2,val_r2,auc_roc,vs_baseline,calibration_error,interpretability
+0.7,0.75,0.0,1.0,0.19324723868579358,0.0,0.13200827480589253,0.09128128249331914,0.8107142857142857,-4.499999999999993,0.2580580682623963,0.85
