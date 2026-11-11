@@ -4,11 +4,11 @@
 
 This is the **Milestone 4 (Final Submission)** for CSE 516: Bayesian Graphical Models. This comprehensive submission consolidates all work from M1-M4 into a complete, production-ready system for credit default prediction using Bayesian networks.
 
-**Submission Date:** December 11, 2026  
+**Submission Date:** November  12, 2026  
 **Group:** G15  
-**Institution:** Stony Brook University  
+**Institution:** Ahmedabad University   
 **Course:** CSE 516 - Bayesian Graphical Models  
-**Academic Term:** Fall 2026
+**Academic Term:** Monsoon 2026
 
 ---
 
