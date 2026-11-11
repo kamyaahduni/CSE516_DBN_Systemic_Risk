@@ -1,0 +1,25 @@
+# M4 G15: Bayesian Networks for Credit Default Prediction
+# Python Dependencies
+
+# Core Scientific Computing
+numpy==1.24.3
+scipy==1.11.4
+pandas==2.0.3
+scikit-learn==1.3.2
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Statistics & Hypothesis Testing
+statsmodels==0.14.0
+
+# Additional Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+
+# Notes:
+# - All versions pinned for reproducibility
+# - Compatible with Python 3.8+
+# - No GPU requirements (CPU-only)
+# - Total size: ~500MB for full environment
