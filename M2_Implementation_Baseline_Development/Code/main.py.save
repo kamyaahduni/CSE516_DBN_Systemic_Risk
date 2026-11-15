@@ -1,0 +1,13 @@
+ls -la
+pip3 install -r requirements.txt
+
+cd ~/Desktop/"516 project"/M2_G15/Code
+python3 -m src.main
+pip3 install -r requirements.txt
+
+
+ps aux | grep pip
+
+ps aux | grep pip
+pip3 install numpy pandas scikit-learn scipy matplotlib --break-system-packages
+
